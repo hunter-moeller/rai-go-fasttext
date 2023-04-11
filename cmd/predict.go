@@ -3,8 +3,8 @@ package cmd
 import (
 	"fmt"
 
+	fasttext "github.com/hunter-moeller/rai-go-fasttext"
 	"github.com/k0kubun/pp"
-	fasttext "github.com/rai-project/go-fasttext"
 	"github.com/spf13/cobra"
 	"github.com/unknwon/com"
 )
